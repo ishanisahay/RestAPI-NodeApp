@@ -1,5 +1,5 @@
 # RestAPI-NodeApp
-A web service with a RESTful API using Node.js and mongodb. The web service can be used to GET/POST requests
+A web service with a RESTful API using Node.js and mongodb. The web service can be used to GET/POST/PUT/DELETE requests
 
 GET:
 http://localhost:3000/tasks
@@ -25,3 +25,4 @@ http://localhost:3000/tasks
         "__v": 0
     }
 ]
+
